@@ -7,11 +7,11 @@
         "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AUT.png"
     },
     {
-        "title":"A Universal Time",
-        "credits": "by TweedLeak",
-        "desc" : "AUT GUI mainly intended for autofarming.",
-        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/yousif111/real/main/script"))()",
-        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AUT.png"
+        "title":"Anime Dimensions Simulator",
+        "credits": "by Singularity",
+        "desc" : "Anime Dimensions GUI with some functions.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/AnimeDimensions.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AnimeDimensionsSimulator.png"
     },
     {
         "title":"Apocalypse Rising 2",
